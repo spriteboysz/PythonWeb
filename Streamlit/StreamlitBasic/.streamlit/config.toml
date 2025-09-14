@@ -1,0 +1,8 @@
+[server]
+port = 8522
+enableCORS = false
+runOnSave = true
+
+[browser]
+serverAddress = "localhost"
+gatherUsageStats = false
